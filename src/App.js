@@ -17,6 +17,8 @@ function App() {
     }
   }
 
+  // http://macosa.dima.unige.it/om/esr/alg/0_7s.htm
+
   return (
     <div className="app">
       <div className="search">
